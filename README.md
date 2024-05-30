@@ -40,12 +40,10 @@
 >
 > #### STATIC FILE
 > - Static file dalam Laravel adalah berkas seperti gambar, file CSS, dan JavaScript yang diperlukan oleh aplikasi web dan tidak diproses oleh server Laravel. Mereka disimpan di dalam direktori public
+---
 <p align="center" >
   <b>PERTANYAAN DAN CATATAN TAMBAHAN</b>
 </p>
----
-> - 
----
 <p align="center" >
   <b>KESIMPULAN</b>
 </p>
